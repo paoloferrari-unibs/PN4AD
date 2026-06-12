@@ -6,7 +6,7 @@ PN4AD, **PROFINET for Automotive Dataset**, is a dataset derived from real indus
 The dataset is intended to support research on industrial communication networks, PROFINET-based automation systems, network validation procedures, and data-driven analysis of industrial Ethernet infrastructures.
 
 This release currently includes a .csv file containing anonymized plant-level and line-level information. 
-The detailed description is reported by the scientific paper available in <a href="https://www.mdpi.com/3904334" target="_blank">MDPI Netowork journal</a>
+The detailed description is reported by the scientific paper available in <a href="https://www.mdpi.com/3904334" target="_blank">MDPI Network journal</a>
 
 NOTE: See Data Availability section for more details about distribution policy.
 
@@ -156,7 +156,7 @@ Email: paolo.ferrari@unibs.it
 
 Reference paper
 
-[R] M. Gaffurin, D. Brandão, E. Sisinni, P. Ferrari, "From the Commissioning of Data to Large-Scale Real-World Industrial Network Datasets for AI-Based Maintenance and Security Applications in the Automotive Industry". *Network*, 2026, 6(2):33, doi: 10.3390/network6020033, <a href="https://www.mdpi.com/3904334" target="_blank">MDPI Netowork journal</a>
+[R] M. Gaffurin, D. Brandão, E. Sisinni, P. Ferrari, "From the Commissioning of Data to Large-Scale Real-World Industrial Network Datasets for AI-Based Maintenance and Security Applications in the Automotive Industry". *Network*, 2026, 6(2):33, doi: 10.3390/network6020033, <a href="https://www.mdpi.com/3904334" target="_blank">MDPI Network journal</a>
 
 
 Related publications from the same reserch team that developed the PN4AD, sorted by publication year in descending order.
