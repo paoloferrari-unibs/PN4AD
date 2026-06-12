@@ -108,7 +108,7 @@ See LICENSE.txt for details.
 
 ---
 
-## Citation
+## Citations
 
 If you use PN4AD in your research, please cite this repository
 
@@ -118,6 +118,22 @@ If you use PN4AD in your research, please cite this repository
   author  = {Ferrari, Paolo and Gaffurini, Massimiliano Sisinni, Emiliano and Brandão, Dennis},
   year    = {2026},
   url = {https://github.com/paoloferrari-unibs/PN4AD}
+}
+```
+and the reference scientific paper
+
+```bibtex
+@Article{network6020033,
+AUTHOR = {Gaffurini, Massimiliano and Brandão, Dennis and Sisinni, Emiliano and Ferrari, Paolo},
+TITLE = {From the Commissioning of Data to Large-Scale Real-World Industrial Network Datasets for AI-Based Maintenance and Security Applications in the Automotive Industry},
+JOURNAL = {Network},
+VOLUME = {6},
+YEAR = {2026},
+NUMBER = {2},
+ARTICLE-NUMBER = {33},
+URL = {https://www.mdpi.com/2673-8732/6/2/33},
+ISSN = {2673-8732},
+DOI = {10.3390/network6020033}
 }
 ```
 
@@ -136,6 +152,11 @@ Email: paolo.ferrari@unibs.it
 ---
 
 ## Other Related Scientific Articles
+
+Reference paper
+
+[R] M. Gaffurin, D. Brandão, E. Sisinni, P. Ferrari, "From the Commissioning of Data to Large-Scale Real-World Industrial Network Datasets for AI-Based Maintenance and Security Applications in the Automotive Industry". *Network*, 2026, 6(2):33, doi: 10.3390/network6020033
+
 
 Related publications from the same reserch team that developed the PN4AD, sorted by publication year in descending order.
 
